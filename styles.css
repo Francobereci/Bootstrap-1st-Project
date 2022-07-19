@@ -1,0 +1,96 @@
+/* SECTION 1 */
+.sect-1{
+    background-color:rgb(22, 177, 146);
+    min-height: 800px !important;
+   
+}
+.image{
+    padding-top: 150px;
+}
+.Line{
+    border: 2px solid white;
+    width: 100px;
+    padding-right: 30px;
+}
+.Line-1{
+    border: 2px solid white;
+    width: 100px;
+}
+.LINE{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+
+}
+.Line--1{
+    margin-right: 15px;
+    padding-bottom: 30px;
+}
+.Line--2{
+    margin-left: 15px;
+}
+.bi{
+    font-size: 30px;
+    color: white;
+
+}
+/* END OF SECTION 1 */
+
+/* SECTION 2 */
+.LINE-2{
+    display: flex;
+    justify-content: center;
+}
+.linee-1{
+    border: 2px solid black;
+    width: 100px;
+    margin-right: 15px;
+}
+.linee-2{
+    border: 2px solid black;
+    width: 100px;
+    margin-left: 15px;
+}
+.star{
+    color: black;
+}
+.free{
+    font-size: 20px;
+}
+.sect-3{
+    background-color: rgb(22, 177, 146);
+    height: auto;
+}
+.abt{
+    font-size: 50px;
+}
+
+.bi-download{
+    font-size: 20px;
+    padding-right: 18px !important;
+}
+
+span{
+padding: 20px;
+font-style: normal;
+
+}
+
+.bi-downloaded{
+   padding-left: 20px;
+}
+
+.download:hover .bi-download:hover{
+    color: black !important;
+    display: inline-block;
+}
+
+.btn:hover{
+    color: black !important;
+}
+.part{
+    background-color: rgb(38, 56, 71);
+}
+.parrt{
+    background-color: rgb(27, 37, 45);
+}
