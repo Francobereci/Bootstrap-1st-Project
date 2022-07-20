@@ -65,21 +65,15 @@
     font-size: 50px;
 }
 
-.bi-download{
-    font-size: 20px;
+/* .bi-download{
+    font-size: 8px;
     padding-right: 18px !important;
-}
+} */
 
 span{
-padding: 20px;
+padding: 7px;
 font-style: normal;
-
 }
-
-.bi-downloaded{
-   padding-left: 20px;
-}
-
 .download:hover .bi-download:hover{
     color: black !important;
     display: inline-block;
